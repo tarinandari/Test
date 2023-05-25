@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             // ada perubahan di main
             // ada lg
+            //test lg 
+            //test lg 
         }
     }
 }
