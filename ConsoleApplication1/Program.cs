@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //test commit dr branh lain
+            //test lg
+
         }
     }
 }
