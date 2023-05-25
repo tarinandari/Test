@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // ada perubahan di main
+            // ada lg
         }
     }
 }
