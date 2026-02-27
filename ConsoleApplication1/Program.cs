@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             //test lg 
             //test lg 
             //new lagi
+            //// test reset lagi
         }
     }
 }
